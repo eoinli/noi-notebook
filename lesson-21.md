@@ -228,4 +228,4 @@ $$
 
 所以，上面四个表达式变成后缀表达式的结果就为：
 
-![结果](<.gitbook/assets/image (8).png>)
+![结果](<.gitbook/assets/image (8) (1).png>)
