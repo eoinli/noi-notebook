@@ -23,3 +23,4 @@
 * [Lesson 22](lesson-22.md)
 * [Lesson 23](lesson-23.md)
 * [Lesson 24](lesson-24.md)
+* [Lesson 25](lesson-25.md)
