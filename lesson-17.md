@@ -12,7 +12,7 @@ description: 通过历年 NOI 真题学习 STL 排序和桶排序
 
 ### 1.1 明明的随机数
 
-本题是 2006 年 NOIP 普及组真题。你可以在洛谷（P1059）、OpenJudge（1.10.09）等 OJ 上找到本题。
+本题是 2006 年 NOIP 普及组真题。你可以在[洛谷（P1059）](https://www.luogu.com.cn/problem/P1059)、[OpenJudge（1.10.09）](http://noi.openjudge.cn/ch0110/09/)等 OJ 上找到本题。
 
 #### 题目描述
 
@@ -108,7 +108,7 @@ int main() {
 
 ### 1.2 奖学金
 
-本题是 2007 年 NOIP 普及组真题。你可以在洛谷（P1093）、OpenJudge（1.10.04）等 OJ 上找到本题。
+本题是 2007 年 NOIP 普及组真题。你可以在[洛谷（P1093）](https://www.luogu.com.cn/problem/P1093)、[OpenJudge（1.10.04）](http://noi.openjudge.cn/ch0110/04/)等 OJ 上找到本题。
 
 #### 题目描述
 
@@ -227,7 +227,7 @@ int main() {
 
 ### 1.3 谁拿了最多奖学金
 
-本题是 2005 年 NOIP 提高组真题。你可以在洛谷（P1051）、OpenJudge（1.9.04）等 OJ 上上找到本题。
+本题是 2005 年 NOIP 提高组真题。你可以在[洛谷（P1051）](https://www.luogu.com.cn/problem/P1051)、[OpenJudge（1.9.04）](http://noi.openjudge.cn/ch0109/04/)等 OJ 上上找到本题。
 
 #### 题目描述
 
