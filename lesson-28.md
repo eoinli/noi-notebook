@@ -36,7 +36,7 @@ int main() {
 
 ### 1.2 震后矿中取钻石
 
-发现了钻石矿之后的一年内，Jeffery 家里的矿井经历了一场大地震。第二年 Jeffrey 下矿时，竟然发现之前发现的钻石矿又增加了！！！现在矿藏的每种不同钻石矿都有对应的价值 c（单位为万元）和质量 w（单位为克拉），每种钻石的总量是无限的。假设 Jeffrey 一次能够把矿里埋藏的总共 k 克拉钻石拿出来，且钻石不可以切割，问 Jeffrey 每年最多能用拿出的钻石换得多少万元额外收入？
+发现了钻石矿之后的一年内，Jeffrey 家里的矿井经历了一场大地震。第二年 Jeffrey 下矿时，竟然发现之前发现的钻石矿又增加了！！！现在矿藏的每种不同钻石矿都有对应的价值 c（单位为万元）和质量 w（单位为克拉），每种钻石的总量是无限的。假设 Jeffrey 一次能够把矿里埋藏的总共 k 克拉钻石拿出来，且钻石不可以切割，问 Jeffrey 每年最多能用拿出的钻石换得多少万元额外收入？
 
 #### 输入格式
 
@@ -183,7 +183,7 @@ int main() {
 
 ### 3.1 `scanf()` 输入
 
-```
+```cpp
 int a; long long b; char c; float d; double e; unsigned long long f;
 scanf("%d %lld %c %f %lf %llu", &a, &b, &c, &d, &e, &f);
 ```
@@ -198,9 +198,10 @@ scanf("%d %lld %c %f %lf %llu", &a, &b, &c, &d, &e, &f);
 
 ### 3.2 `printf()` 输出
 
-```
+```cpp
 int a; long long b; char c; float d; double e; unsigned long long f;
 scanf("%d %lld %c %f %lf %llu", &a, &b, &c, &d, &e, &f);
+
 printf("%d %lld %c %f %lf %llu", a, b, c, d, e, f);
 ```
 
