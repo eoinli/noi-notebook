@@ -26,3 +26,4 @@
 * [Lesson 25](lesson-25.md)
 * [Lesson 27](lesson-27.md)
 * [Lesson 28](lesson-28.md)
+* [Lesson 29](lesson-29.md)
