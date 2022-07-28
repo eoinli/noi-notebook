@@ -28,3 +28,4 @@
 * [Lesson 28](lesson-28.md)
 * [Lesson 29](lesson-29.md)
 * [Lesson 30](lesson-30.md)
+* [Lesson 31](lesson-31.md)
