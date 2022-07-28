@@ -134,7 +134,7 @@ int main () {
 
 ### 1.2 迷宫
 
-你可以在 [OpenJudge（百练 2790）](http://bailian.openjudge.cn/practice/2790/)上找到本题。
+你可以在 [OpenJudge（2.5.1792）](http://noi.openjudge.cn/ch0205/1792/)等 OJ 上找到本题。
 
 #### 题目描述
 
