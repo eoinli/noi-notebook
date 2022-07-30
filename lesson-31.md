@@ -60,7 +60,7 @@ void dfs(int x, int y) {
 void bfs(int x, int y) {
     que[tt].x = x, que[tt].y = y, tt++; // 初始化首元素入队
     while (hh < tt) { // 如果队列不为空
-        t = que[hh++]; // 暂存队首元素并将队首元素后移一位
+        t = que[hh++]; // 暂存队首元素并将队首元素出队
         if (t.x == ex && t.y == ey) {
             flag = 1;
             return;
@@ -171,7 +171,7 @@ void bfs(int x, int y) {
     q[tt].x = x, q[tt].y = y, q[tt].step = 0, tt++;
     // 如果队列不为空
     while (hh < tt) {
-        // 暂存队首元素并将队首元素后移一位
+        // 暂存队首元素并将队首元素出队
         t = q[hh++];
         // 遍历八种走法
         for (int i = 0; i < 8; i++) {
@@ -277,7 +277,7 @@ void bfs (int start) {
     q[tt].first = start, q[tt].second = 0, tt++;
     // 如果队列不为空
     while (hh < tt) {
-        // 暂存队首元素并将队首元素后移一位
+        // 暂存队首元素并将队首元素出队
         t = q[hh++];
         // 如果到达终点楼层
         if (t.first == b) {
